@@ -1,0 +1,12 @@
+{
+    "exclude": [
+      "experiments/**",
+      "log/**",
+      "metric_checkpoint/**",
+      "preprocessed_data/**"    ],
+    "typeCheckingMode": "off"
+    // "reportMissingImports": false,
+    // "reportUnknownMemberType": false,
+    // "reportAttributeAccessIssue": false,
+    // "reportUnknownVariableType": false
+}

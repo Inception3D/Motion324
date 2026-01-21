@@ -1,0 +1,185 @@
+metric_checkpoint
+pretrained_models
+preprocessed_data
+experiments/
+log/
+wandb/
+.DS_Store
+.vscode
+pretrained_model
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+minLRM/paper_demo
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+.pdm.toml
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+
+dataset_toolkits
+.history
+ckpt
+attention_visualizations
+viz
+evaluation/lpips/weights/v0.0/alex.pth
+evaluation/lpips/weights/v0.0/squeeze.pth
+evaluation/lpips/weights/v0.0/vgg.pth
+evaluation/fvd/styleganv/i3d_torchscript.pt
+evaluation/lpips/weights/v0.1/alex.pth
+evaluation/lpips/weights/v0.1/squeeze.pth
+evaluation/lpips/weights/v0.1/vgg.pth
+evaluation/models/clip_vitb16_pretrain.pth.tar
+evaluation/models/dino_vitb16_pretrain.pth
+evaluation/models/open_clip_vitb16_pretrain.pth.tar
+evaluation/models/pretrained.zip
+evaluation/models/trusted_list
+evaluation/models/checkpoints/dino_vitbase16_pretrain.pth
+evaluation/models/ensemble_lora/adapter_config.json
+evaluation/models/ensemble_lora/adapter_model.safetensors
+evaluation/models/facebookresearch_dino_main/eval_copy_detection.py
+evaluation/models/facebookresearch_dino_main/eval_image_retrieval.py
+evaluation/models/facebookresearch_dino_main/eval_knn.py
+evaluation/models/facebookresearch_dino_main/eval_linear.py
+evaluation/models/facebookresearch_dino_main/eval_video_segmentation.py
+evaluation/models/facebookresearch_dino_main/hubconf.py
+evaluation/models/facebookresearch_dino_main/LICENSE
+evaluation/models/facebookresearch_dino_main/main_dino.py
+evaluation/models/facebookresearch_dino_main/README.md
+evaluation/models/facebookresearch_dino_main/run_with_submitit.py
+evaluation/models/facebookresearch_dino_main/utils.py
+evaluation/models/facebookresearch_dino_main/video_generation.py
+evaluation/models/facebookresearch_dino_main/vision_transformer.py
+evaluation/models/facebookresearch_dino_main/visualize_attention.py
+evaluation/models/facebookresearch_dino_main/.github/attention_maps.png
+evaluation/models/facebookresearch_dino_main/.github/CODE_OF_CONDUCT.md
+evaluation/models/facebookresearch_dino_main/.github/CONTRIBUTING.md
+evaluation/models/facebookresearch_dino_main/.github/dino.gif
+scripts_run
+scripts_viz
+scripts_eval
+scripts_process_data
+name_list
+1test
+input_data_vis.png
+scripts/inference_with_video_only copy.py
+flash_attn-2.7.4.post1+cu12torch2.4cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
+examples1
+models
+example_viz

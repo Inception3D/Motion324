@@ -1,0 +1,16 @@
+bca5350dd54847eea333362dd7997c43-0-mixamo.com-_rootJoint
+b1a2f41008644ce18fdd479437490045-0-Armature.002|Armature.002|mixamo.com|Layer0-_rootJoint
+6569cdd64e104494a9afc76f769a23b8-0-mixamo.com-_rootJoint
+01051d98271941bd971018f50e31fc2f-0-mixamo.com-_rootJoint
+02721a2abe0e4df9851833b4c7dcd6e2-0-mixamo.com-_rootJoint
+064d35c29ddc4e33a9c9028ef9b9bfc9-0-mixamo.com-_rootJoint
+0b649b76d8714363b128c28f31d74153-0-mixamo.com-_rootJoint
+0b7ec4c4e35b49f0bfb278e5424c294c-0-Main-_rootJoint
+0e28b645254b4ff0973791a70268e4ee-0-mixamo.com-_rootJoint
+2011f20f7a7e4442bd44630f9e7ca9a9-0-mixamo.com-_rootJoint
+238eaf4c3a2b425ab9e848d7554d8b06-0-mixamo.com-_rootJoint
+256e92c5fa134f128b737b6f01dc80d3-0-mixamo.com-_rootJoint
+2691fa718007408d87e28ec916c7a400-0-mixamo.com-_rootJoint
+329b630700cf44ff8632498a51512905-0-mixamo.com-_rootJoint
+33bd85b5b24b4ba3b28fc455c021ff8c-0-Take 001-_rootJoint
+36a33548949a47a896acdb4b89b01c81-0-mixamo.com-_rootJoint

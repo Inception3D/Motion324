@@ -1,0 +1,36 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.4.1
+torchvision==0.19.1+cu124
+xformers==0.0.28
+imageio==2.33.0
+Pillow==10.0.1
+imageio-ffmpeg==0.5.0
+omegaconf==2.1.1
+einops>= 0.4.1 
+transformers==4.56.1
+peft==0.17.0
+torchmetrics>= 0.11.0
+datasets==2.14.5
+rich>=13.3.2
+wandb==0.21.1
+ipdb
+tqdm
+easydict==1.13
+lpips==0.1.4
+dreamsim==0.2.1
+open-clip-torch==3.1.0
+jaxtyping==0.3.1
+scikit-image==0.23.2
+rembg==2.0.68
+onnxruntime
+trimesh==4.6.9
+bpy==4.4.0
+natsort
+scikit-learn
+numpy==1.26.4
+matplotlib
+pybind11==2.13.6
+diffusers==0.35.2
+xatlas==0.0.11
+pymeshlab
+pygltflib

@@ -1,0 +1,64 @@
+fa9f51beb7634443be3fce568b66af73-0-Roar-_rootJoint
+d3b7ce8de999486da4651c0cb9147953-0-drunk-_rootJoint
+604e591e0d61402095ad71302d73ff59-0-Take 001-_rootJoint
+5f144ff373404241a4638acb61704fdc-0-Take 001-_rootJoint
+66b977817f6a495f889cdb87e79335cf-0-CINEMA_4D_Principal-GLTF_created_0_rootJoint
+47e7184b167144b3b14c47f20c7f7892-0-mixamo.com-_rootJoint
+b3139fdc5465449589b023d19d39dd5e-0-Take 001-_rootJoint
+bff251cf00374a24839c9b5ea0697c95-0-mixamo.com-_rootJoint
+b2a9701db8b84d3a82f99d1f719af0d4-0-mixamo.com-_rootJoint
+828017e697e64547b552aa868f045714-0-idle-_rootJoint
+1b15161e662d49ab9ead9991500f7342-0-mixamo.com-_rootJoint
+5ff228693ab04cdbad53d42311342b4e-0-mixamo.com-_rootJoint
+f819d72955004cc3bfab5afedee8250a-0-Armature|ArmatureAction.001-_rootJoint
+d0d43e2a29434a1cae0c619667c87815-0-Animation-Skeleton
+d65a6d1e87bf444088a0e8168e34e9e0-0-Armature|ArmatureAction-Armature
+9cda2dc67b5c4a9a88fe1550d1ee40fe-0-Armature|Walk-_rootJoint
+00b9f134359645148c3a5113b8449d1d-0-metarig.001|metarig.001|mixamo.com|Layer0-metarig.001
+00e7a6daedd24e429858182a334f3f88-0-mixamo.com-_rootJoint
+01bd7226a80148e0b1dae42a298580b0-0-Take 001-_rootJoint
+01fa8487749d4aca8ae56e673191c019-0-Take 001-walker_lfLegIkCtrl_space_switch_grp
+045b22e7c1c249a4acd58f14d63977f3-0-mixamo.com-_rootJoint
+075da77f55894dec9dcc38c74bf5465a-0-Armature|ArmatureAction-_rootJoint
+088687e4034a49658f030e30d99f5601-0-dance dance-_rootJoint
+09148d8bdff447ab84b1c10b384efe09-0-Armature|ArmatureAction-_rootJoint
+0a4604dad8da45e18a65179a686cb98e-0-Animation-_rootJoint
+0a7369afec3e461d8f668498e36b7707-0-Take 001-_rootJoint
+0b871ded46ec48f295daae79cee8f0b4-0-Take 001-Plane003
+0b9df8b7d0db4093b7a94746b55a4d88-0-mixamo.com-_rootJoint
+0c5d13b5a1ba4b3aa0f79c3929a2f3a5-0-Win-_rootJoint
+0c7abbb8b0e34a34bf1fb783da518664-0-mixamo.com-_rootJoint
+0f142eaa4ab94740ba9e5d074f306a15-0-Take 001-_rootJoint
+117fe1c12ffe44f698fe5d68f94a61ad-0-mixamo.com-_rootJoint
+1197e9da0aca440c8d371c6a7fe2b8bb-0-jumpin-_rootJoint
+12ad1547bf74421781481cec3dbf18ab-0-Walk-_rootJoint
+1322ec88c4214129a37cb0a870325d2f-0-Walk_blocking-GLTF_created_0_rootJoint
+1398503ac9c54bd89d8ec214be3f898c-0-mixamo.com-_rootJoint
+147255b123c4419cb745c9a688f5a460-0-mixamo.com-_rootJoint
+1646ade065cc4674891c596dd48e1b39-0-mixamo.com-_rootJoint
+1651f10085fb4fe881c9327339c05a49-0-Take 001-_rootJoint
+1697d86e7a2f417185a752c5303fa678-0-mixamo.com-_rootJoint
+16f1c72703974d35957eeeabb4ff3d32-0-mixamo.com-_rootJoint
+1711a1d0703a46baa21ede68b0743930-0-CINEMA_4D_Main-_rootJoint
+17c607eafc3e406785013094598f8226-0-mixamo.com-_rootJoint
+1aa28900f0474e85824085d15340ce15-0-walk-GLTF_created_0_rootJoint
+1c092117ed114d1cad4b43f59e13fe71-0-Take 001-_rootJoint
+1cd64f4208314981ae300cb014c19be4-0-Take 001-_rootJoint
+1f098a7cc2744736ba13ab5bda7c74a8-0-Armature.001|Walk-_rootJoint
+2066afa87c7240d3b74b2ee6116fe0d7-0-mixamo.com-_rootJoint
+21154183a9b44152857bedf21b69e1e5-0-Take 001-_rootJoint
+21507e49b8f3404ea5ac5ffb000bb176-0-ArmatureAction-Armature_rootJoint
+21c898fa071b4414a8c1fd2ea4773b43-0-walk-_rootJoint
+25015f5f3ac64d2dac358f8c17af5128-0-walk-GLTF_created_0_rootJoint
+2611cb5fc0e048bdbb421b142d4ca7f5-0-mixamo.com-_rootJoint
+2932fca2b6bf428ab38944efb12209a1-0-angry talk-_rootJoint
+2b75f50d68084580b16d5986139c407a-0-mixamo.com-_rootJoint
+2d0701a199924a9ca36e76759ceaeea6-0-Take 01-galinha_esqueleto
+2ed510f819b7483198db65f5fcd156cd-0-Attack-_rootJoint
+2efd5252155048499a1fe725462dc77f-0-mixamo.com-Armature
+2f98af6aeee24e1f8225883e52e78425-0-CINEMA_4D_Main-Root_Anim_Hat
+3279369cb5a04838a859bd69823d545c-0-Walking-GLTF_created_0_rootJoint
+32f1d70cbdfa4b0e8cf81e91618df201-0-������Action-GLTF_created_0_rootJoint
+330015cf2cca49f3a84276975eb2687d-0-Take 001-_rootJoint
+34fe9318855d4f9ea80d121dd28cc890-0-Runway_Walk-_rootJoint
+35689c8c52d54f9bbf4a0a789f407469-0-Idle-_rootJoint

@@ -1,0 +1,67 @@
+model:
+  class_name: model.Pcd_motion.Motion_Latent_Model
+  feat_dim: 768
+  tokens: 64
+  pcd_layers: 4
+  video_encoder:
+    image_tokenizer:
+      image_size: 224
+      patch_size: 14 
+      patch_length: 1
+      in_channels: 3
+    transformer:
+      d: 768
+      d_head: 64
+      n_layer: 16
+      special_init: true
+      depth_init: true
+      use_qk_norm: true
+
+training:
+  amp_dtype: bf16
+  api_key_path: ./configs/api_keys.yaml
+  batch_size_per_gpu: 16
+  beta1: 0.9
+  beta2: 0.95
+  allowed_gradnorm_factor: 5
+  dataset_name: dataset.dyscene.Dyscene16k_Dataset
+  dataset_path: /path/to/your/dataset
+  train_lst: dataset/train.lst
+  dataset_end: -1
+  dataset_begin: 1000
+  num_shape_samples: 4096
+  num_pcd_samples: 4096
+  replica: 1
+  frames: 12
+  grad_accum_steps: 1
+  use_checkpoint: True
+  grad_checkpoint_every: 1
+  grad_clip_norm: 1.0
+  coord_mse_loss_weight: 1.0
+  lr: 0.0004
+  num_workers: 8
+  prefetch_factor: 2
+  print_every: 20
+  use_amp: true
+  use_tf32: true
+  checkpoint_every: 10000
+  train_steps: 30000
+  stop_steps: 30000
+  warmup: 1000
+  wandb_log_every: 1
+  wandb_exp_name: test
+  wandb_project: Motion324
+  resume_ckpt: ''
+  checkpoint_dir: ./experiments/checkpoints/${training.wandb_exp_name}
+  weight_decay: 0.05
+
+# evaluation:
+#   dataset_name: dataset.dyscene.Dyscene16k_Dataset
+#   dataset_path: /path/to/your/dataset
+#   dataset_begin: 0
+#   dataset_end: 1000
+#   batch_size_per_gpu: 8
+#   frames: 12
+#   replica: 1
+#   num_shape_samples: 4096
+#   num_pcd_samples: 4096
