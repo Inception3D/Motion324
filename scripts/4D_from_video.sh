@@ -26,7 +26,7 @@ if [ $# -ge 2 ]; then
 fi
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-PROJECT_ROOT="${SCRIPT_DIR}/.."
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 OUTPUT_BASE_DIR="$(dirname "$INPUT_VIDEO")"
 
 # Validate input video

@@ -21,7 +21,7 @@ VIDEO_PATH="$2"
 OUTPUT_DIR="$3"
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-PROJECT_ROOT="${SCRIPT_DIR}/.."
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 # Validate data_dir
 if [ ! -f "$DATA_DIR" ]; then

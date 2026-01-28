@@ -35,8 +35,8 @@ def preprocess_image(input: Image.Image, return_rgba=False, return_all_rbga=Fals
         scale = min(1, 1024 / max_size)
         if scale < 1:
             input = input.resize((int(input.width * scale), int(input.height * scale)), Image.Resampling.LANCZOS)
-        # Use birefnet-massive instead of u2net for better performance
-        rembg_session = rembg.new_session('birefnet-massive')
+        # Use birefnet-massive or isnet-general-use instead of u2net for better performance
+        rembg_session = rembg.new_session('isnet-general-use')
         output = rembg.remove(input, session=rembg_session)
     output_np = np.array(output)
     alpha = output_np[:, :, 3]
@@ -104,7 +104,7 @@ def get_folder_size(folder):
 
 if __name__ == "__main__":
     args = parse_args()
-    root = "/home/hongyuan/obj_motion/Eval/1/viz" if args.root == "" else args.root
+    root = "./Motion324" if args.root == "" else args.root
     default_output_root = "results_examples"
     print(f"Root viz dir: {root}")
 

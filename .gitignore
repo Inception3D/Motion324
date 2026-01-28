@@ -1,7 +1,6 @@
 metric_checkpoint
 pretrained_models
 preprocessed_data
-experiments/
 log/
 wandb/
 .DS_Store
